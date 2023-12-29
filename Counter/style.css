@@ -1,0 +1,29 @@
+#cont{
+    text-align: center;
+}
+#dec{
+    font-family: sans-serif;
+    font-size: 50px;
+    background-color: aqua;
+    border-radius: 18px;
+}
+#res{
+    font-family: sans-serif;
+    font-size: 50px;
+    background-color: aqua;
+    border-radius: 18px;
+}
+#inc{
+    font-family: sans-serif;
+    font-size: 50px;
+    background-color: aqua;
+    border-radius: 18px;
+}
+#counter{
+    font-family: sans-serif;
+    font-size: 50px;
+}
+#valueOfCount{
+    font-family: sans-serif;
+    font-size: 50px;
+}
